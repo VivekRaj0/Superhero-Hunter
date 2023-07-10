@@ -1,6 +1,6 @@
 # Superhero-Hunter
  
-#### Live Link : ('https://shubhamdarwante2301.github.io/cn-superhero-hunter/index.html#')
+#### Live Link : ('https://vivekraj0.github.io/Superhero-Hunter/')
 
 ## Description
 
